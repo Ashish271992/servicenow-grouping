@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Git" max_length="40" name="x_333029_serviceno_git" type="collection"/>
+</database>
